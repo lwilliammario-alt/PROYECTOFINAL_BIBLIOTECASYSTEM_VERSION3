@@ -1,7 +1,7 @@
-import RegistrarLibro from "./pages/RegistrarLibro";
+import CreateLibro from "./pages/CreateLibro";
 
 function App() {
-  return <RegistrarLibro />;
+  return <CreateLibro />;
 }
 
 export default App;
